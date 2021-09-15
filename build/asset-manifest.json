@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/git-responsive/static/css/main.84bc80ed.chunk.css",
+    "main.js": "/git-responsive/static/js/main.2a609a87.chunk.js",
+    "main.js.map": "/git-responsive/static/js/main.2a609a87.chunk.js.map",
+    "runtime-main.js": "/git-responsive/static/js/runtime-main.99d0c422.js",
+    "runtime-main.js.map": "/git-responsive/static/js/runtime-main.99d0c422.js.map",
+    "static/js/2.e216f964.chunk.js": "/git-responsive/static/js/2.e216f964.chunk.js",
+    "static/js/2.e216f964.chunk.js.map": "/git-responsive/static/js/2.e216f964.chunk.js.map",
+    "static/js/3.6105ca60.chunk.js": "/git-responsive/static/js/3.6105ca60.chunk.js",
+    "static/js/3.6105ca60.chunk.js.map": "/git-responsive/static/js/3.6105ca60.chunk.js.map",
+    "index.html": "/git-responsive/index.html",
+    "static/css/main.84bc80ed.chunk.css.map": "/git-responsive/static/css/main.84bc80ed.chunk.css.map",
+    "static/js/2.e216f964.chunk.js.LICENSE.txt": "/git-responsive/static/js/2.e216f964.chunk.js.LICENSE.txt",
+    "static/media/a1.58f17b44.jpg": "/git-responsive/static/media/a1.58f17b44.jpg",
+    "static/media/a2.189e2c4e.jpg": "/git-responsive/static/media/a2.189e2c4e.jpg",
+    "static/media/a3.3dff6f8a.jpg": "/git-responsive/static/media/a3.3dff6f8a.jpg",
+    "static/media/b1.94a3d27a.jpg": "/git-responsive/static/media/b1.94a3d27a.jpg",
+    "static/media/b2.ba40a32f.jpg": "/git-responsive/static/media/b2.ba40a32f.jpg",
+    "static/media/b3.98736a01.jpg": "/git-responsive/static/media/b3.98736a01.jpg",
+    "static/media/boys.7cece098.jpg": "/git-responsive/static/media/boys.7cece098.jpg",
+    "static/media/boys2.1f184e06.jpg": "/git-responsive/static/media/boys2.1f184e06.jpg",
+    "static/media/c1.011a829e.jpg": "/git-responsive/static/media/c1.011a829e.jpg",
+    "static/media/c2.b15a1b09.jpg": "/git-responsive/static/media/c2.b15a1b09.jpg",
+    "static/media/c3.f98e372f.jpg": "/git-responsive/static/media/c3.f98e372f.jpg",
+    "static/media/kid1.11a44b6e.png": "/git-responsive/static/media/kid1.11a44b6e.png",
+    "static/media/kid2.d70aaa38.png": "/git-responsive/static/media/kid2.d70aaa38.png",
+    "static/media/kid3.bbb5bfdd.png": "/git-responsive/static/media/kid3.bbb5bfdd.png",
+    "static/media/kid4.24e801bb.png": "/git-responsive/static/media/kid4.24e801bb.png",
+    "static/media/map.29db6fa7.png": "/git-responsive/static/media/map.29db6fa7.png",
+    "static/media/mom.04852b6c.png": "/git-responsive/static/media/mom.04852b6c.png",
+    "static/media/video-patch.b453d64e.png": "/git-responsive/static/media/video-patch.b453d64e.png",
+    "static/media/yellowbar.07542e5f.jpg": "/git-responsive/static/media/yellowbar.07542e5f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d0c422.js",
+    "static/js/2.e216f964.chunk.js",
+    "static/css/main.84bc80ed.chunk.css",
+    "static/js/main.2a609a87.chunk.js"
+  ]
+}
